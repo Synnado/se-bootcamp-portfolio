@@ -45,10 +45,10 @@
 
 | Lab | What I Learned | Status |
 |---|---|---|
-| Pass / Fail | | ☐ |
-| Grade Calculator | | ☐ |
-| Average Score | | ☐ |
-| Loop Practice | | ☐ |
+| Pass / Fail | | ✅ |
+| Grade Calculator | | ✅ |
+| Average Score | | ✅ |
+| Loop Practice | | ✅ |
 
 ---
 
@@ -101,14 +101,14 @@ git push -u origin main
 
 | รายการ | สถานะ |
 |---|---|
-| สร้าง GitHub account ได้ | ☐ |
-| สร้าง repository ได้ | ☐ |
-| สร้าง README.md ได้ | ☐ |
-| ใช้ Markdown ได้ | ☐ |
-| commit งานแรกได้ | ☐ |
-| push ขึ้น GitHub ได้ | ☐ |
-| เปิด repository แล้วเห็น README ได้ | ☐ |
-| มีเป้าหมายการเรียนต่อ | ☐ |
+| สร้าง GitHub account ได้ | ✅ |
+| สร้าง repository ได้ | ✅ |
+| สร้าง README.md ได้ | ✅ |
+| ใช้ Markdown ได้ | ✅ |
+| commit งานแรกได้ | ✅ |
+| push ขึ้น GitHub ได้ | ✅ |
+| เปิด repository แล้วเห็น README ได้ | ✅ |
+| มีเป้าหมายการเรียนต่อ | ✅ |
 
 ---
 
