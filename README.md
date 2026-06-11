@@ -138,5 +138,5 @@ git push -u origin main
 ## 🔗 Repository Link
 
 ```text
-https://github.com/USERNAME/se-bootcamp-portfolio
+https://github.com/Synnado/se-bootcamp-portfolio
 ```
